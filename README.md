@@ -16,4 +16,4 @@ Cause you're stuck to the ground, you'll have to stay"
 
 <hr>
 
-<a href="https://bluezcreen.github.io">open the website</a>
+<a href="https://bluezcreen.github.io/mkI">open the website</a>
